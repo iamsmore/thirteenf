@@ -1,0 +1,4 @@
+__pycache__/
+env/
+sec_edgar_filings/
+.vscode/
